@@ -19,7 +19,7 @@ Coding, Google
 ```js
 HTML, CSS, JavaScript
 ```
-## Project has been completed
+## Projects have been completed
 ### Pursuit Fellowship Project
 
 - [Dinosaur Museum Project](https://github.com/xiaomingyang-git2021/8-0-dinosaur-museum-project)
