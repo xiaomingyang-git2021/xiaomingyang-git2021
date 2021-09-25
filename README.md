@@ -38,4 +38,4 @@ HTML, CSS, JavaScript
 - [Linkedin](https://www.linkedin.com/in/xiaoming-yang/)
 
 
- ![codewars](https://www.codewars.com/users/xiaomingyang-git2021/badges/large)
+ ![codewars](https://www.codewars.com/users/xiaomingyang-git2021/badges/small)
