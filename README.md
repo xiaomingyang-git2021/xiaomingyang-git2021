@@ -2,7 +2,7 @@
 ## Hello!
 
 
-  I’m Xiaoming Yang, a Full Stack Web Developer from New York City. Currently I am a Pursuit Fellow, taking part in an intensive 12 - month software engineering fellowship with a 9% acceptance rate.
+  I’m __Xiaoming Yang__, a __Full Stack Web Developer__ from New York City. Currently I am a __Pursuit Fellow__, taking part in an intensive 12 - month software engineering fellowship with a 9% acceptance rate.
 
 
   I am working towards becoming a Full Stack Web Developer so that I can be a leader in tech, by strengthening my skills and continuing to learn each day.
