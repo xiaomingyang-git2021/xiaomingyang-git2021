@@ -22,7 +22,7 @@ HTML, CSS, JavaScript
 ## Projects have been completed
 ### Pursuit Fellowship Project
 
-- [Dinosaur Museum Project](https://github.com/xiaomingyang-git2021/8-0-dinosaur-museum-project)
+- [Dinosaur Museum Project](https://xiaomingyang-git2021.github.io/8-0-dinosaur-museum-project/)
 
   The Dinosaur Museum is opening! You've been tasked with building some challenging functionality for the automated systems recently    installed at the museum.
 
