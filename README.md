@@ -30,6 +30,10 @@ HTML, CSS, JavaScript
 - [Command Line Snowman Project](https://github.com/xiaomingyang-git2021/8-0-command-line-snowman)
 
   For this assignment, you will build a game of [snowman](https://benstone1.github.io/Snowman-App/) that lets you play in the terminal!
+  
+- [Weather App Project](https://www.w3schools.com/howto/howto_js_topnav.asp)
+
+  This project requires you to build a web application that responsively changes based on user input. This project also uses an external API, which you will need to access and integrate into your project.
 
 <hr />
 
