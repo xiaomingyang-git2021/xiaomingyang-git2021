@@ -31,7 +31,7 @@ HTML, CSS, JavaScript
 
   For this assignment, you will build a game of [snowman](https://benstone1.github.io/Snowman-App/) that lets you play in the terminal!
   
-- [Weather App Project](https://www.w3schools.com/howto/howto_js_topnav.asp)
+- [Weather App Project](https://xiaomingyang-git2021.github.io/8-0-weather-app-project/)
 
   This project requires you to build a web application that responsively changes based on user input. This project also uses an external API, which you will need to access and integrate into your project.
 
