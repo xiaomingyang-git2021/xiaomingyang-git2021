@@ -27,7 +27,7 @@ HTML, CSS, JavaScript
   The Dinosaur Museum is opening! You've been tasked with building some challenging functionality for the automated systems recently    installed at the museum.
 
   To complete this project, you will need to write a number of difficult functions that will support attendees in finding out information about dinosaurs, finding the dinosaur's location, and calculating their entry fees.
-- [Command Line Snowman Project](https://github.com/xiaomingyang-git2021/8-0-command-line-snowman)
+- [Command Line Snowman Project](https://xiaomingyang-git2021.github.io/8-0-command-line-snowman/)
 
   For this assignment, you will build a game of [snowman](https://benstone1.github.io/Snowman-App/) that lets you play in the terminal!
   
