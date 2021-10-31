@@ -33,11 +33,11 @@ HTML, CSS, JavaScript
   
 - [Weather App Project](https://xiaomingyang-git2021.github.io/8-0-weather-app-project/)
 
-  This project requires you to build a web application that responsively changes based on user input. This project also uses an external API, which you will need to access and integrate into your project.
+  This project requires you to build a web application that responsively changes based on user input. This project also uses an external `API`, which you will need to access and integrate into your project.
 
 <hr />
 
-## `Contact Me`
+## Contact Me
 
 - [Linkedin](https://www.linkedin.com/in/xiaoming-yang/)
 
