@@ -16,7 +16,7 @@ Open to opportunities: Full-time, Apprenticeships, Volunteer Opportunities, Open
 Coding, Google
 ```
 ## Technologies 
-```js
+```javaScript
 HTML, CSS, JavaScript
 ```
 ## Projects have been completed
@@ -37,7 +37,7 @@ HTML, CSS, JavaScript
 
 <hr />
 
-## Contact Me
+## `Contact Me`
 
 - [Linkedin](https://www.linkedin.com/in/xiaoming-yang/)
 
