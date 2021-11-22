@@ -33,6 +33,8 @@ HTML, CSS, JavaScript
   
 - [Weather App Project](https://xiaomingyang-git2021.github.io/8-0-weather-app-project/)
 
+- [React Calculate](https://the-awesome-xiaomingyang-git2021.netlify.app）
+
   This project requires you to build a web application that responsively changes based on user input. This project also uses an external API, which you will need to access and integrate into your project.
 
 <hr />
