@@ -33,7 +33,7 @@ HTML, CSS, JavaScript
   
 - [Weather App Project](https://xiaomingyang-git2021.github.io/8-0-weather-app-project/)
 
-- [React Calculator](https://the-awesome-xiaomingyang-git2021.netlify.app/) 
+- [React Calculator](https://the-awesome-xiaomingyang-git2021.netlify.app) 
   
   Create a React app that mimics a simple calculator
 
