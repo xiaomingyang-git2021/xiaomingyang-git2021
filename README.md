@@ -40,6 +40,7 @@ HTML, CSS, JavaScript, React
   This project requires you to build a web application that responsively changes based on user input. This project also uses an external API, which you will need to access and integrate into your project.
   
 - [React YouTube](https://youtube-clone-34abc4.netlify.app/)
+
 This is a 3-person cooperation project. According to the requirements of the project, there should be an interface with clear YouTube features. When the user enters the searched movie name in the search box, the corresponding result can be given. Click the search result to start playing the video content. In addition, on the navigation bar of the homepage, users can see the information of the members of the creative team of this project.
 
 <hr />
