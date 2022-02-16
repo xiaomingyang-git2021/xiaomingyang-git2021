@@ -27,6 +27,8 @@ HTML, CSS, JavaScript, React
   The Dinosaur Museum is opening! You've been tasked with building some challenging functionality for the automated systems recently    installed at the museum.
 
   To complete this project, you will need to write a number of difficult functions that will support attendees in finding out information about dinosaurs, finding the dinosaur's location, and calculating their entry fees.
+  
+  
 - [Command Line Snowman Project](https://xiaomingyang-git2021.github.io/8-0-command-line-snowman/)
 
   For this assignment, you will build a game of [snowman](https://benstone1.github.io/Snowman-App/) that lets you play in the terminal!
@@ -46,6 +48,10 @@ HTML, CSS, JavaScript, React
 - [Full Stack Budgeting App](https://xiaoming-budgeting-2022.netlify.app/)
 
   Create a backend API using Express that performs full CRUD on a single model, transactions. Then, using RESTful routes, connect it to a React app.
+  
+- [Snack-A-Log Pair Programming Lab](https://romantic-einstein-9a7ad6.netlify.app)
+
+  This is a two-person partnership programming project. The purpose is mainly to examine the ability of cooperative programming. The project involves the integrated use of front-end, back-end and database. On the basis that the program can run normally, the back-end and front-end are respectively deployed to the heroku and Netlify websites to truly realize a website similar to the real environment. Items within the program can be edited and deleted. You are welcome to inspect and test our projects.
 
 <hr />
 
