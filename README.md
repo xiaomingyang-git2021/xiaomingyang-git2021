@@ -51,7 +51,7 @@ HTML, CSS, JavaScript, React
   
 - [Tuner](https://xm-tuner-full-stack.netlify.app/)
 
-  This is my first small app with database and backend and frontend. When you click on Tuner, you can see a list of songs. You can also add, delete or edit your favorite song list. Everyone is welcome to test this application.
+  This is my first small app with database and backend and frontend. When you click on Tuner, you can see a list of songs. You can also add, delete or edit your favorite song list. Everyone is welcome to test this application. Since the backend is deployed on heroku, its response speed will be a little slow, and it takes a little patience to wait for its connection, which is hereby explained.
   
 - [Snack-A-Log Pair Programming Lab](https://romantic-einstein-9a7ad6.netlify.app)
 
