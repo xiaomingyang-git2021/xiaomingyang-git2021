@@ -22,11 +22,9 @@ HTML, CSS, JavaScript, React
 ## Projects have been completed
 ### Pursuit Fellowship Project
 
-- [Dinosaur Museum Project](https://xiaomingyang-git2021.github.io/8-0-dinosaur-museum-project/)
+- [PERN Stack Project](https://xiaoming-pern-final-project.netlify.app/)
 
-  The Dinosaur Museum is opening! You've been tasked with building some challenging functionality for the automated systems recently    installed at the museum.
-
-  To complete this project, you will need to write a number of difficult functions that will support attendees in finding out information about dinosaurs, finding the dinosaur's location, and calculating their entry fees.
+  This project is a summary of what was learned in Module 4. This is a personal project that requires a comprehensive application of what has been learned. The project includes front-end, back-end, database, and one-to-many comments. Everyone is welcome to check out this project.
   
   
 - [Command Line Snowman Project](https://xiaomingyang-git2021.github.io/8-0-command-line-snowman/)
