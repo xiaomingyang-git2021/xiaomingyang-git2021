@@ -25,18 +25,20 @@ HTML, CSS, JavaScript, React
 - [PERN Stack Project](https://xiaoming-pern-final-project.netlify.app/)
 
   This project is a summary of what was learned in Module 4. This is a personal project that requires a comprehensive application of what has been learned. The project includes front-end, back-end, database, and one-to-many comments. Everyone is welcome to check out this project.
+
+- [Snack-A-Log Pair Programming Lab](https://romantic-einstein-9a7ad6.netlify.app)
+
+  This is a two-person partnership programming project. The purpose is mainly to examine the ability of cooperative programming. The project involves the integrated use of front-end, back-end and database. On the basis that the program can run normally, the back-end and front-end are respectively deployed to the heroku and Netlify websites to truly realize a website similar to the real environment. Items within the program can be edited and deleted. You are welcome to inspect and test our projects.
   
 - [Tuner](https://xm-tuner-full-stack.netlify.app/)
 
-  This is my first small app with database and backend and frontend. When you click on Tuner, you can see a list of songs. You can also add, delete or edit your favorite song list. Everyone is welcome to test this application. Since the backend is deployed on heroku, its response speed will be a little slow, and it takes a little patience to wait for its connection, which is hereby explained.
+  This is my first small app with database and backend and frontend. When you click on Tuner, you can see a list of songs. You can also add, delete or edit your favorite song list. Everyone is welcome to test this application. Since the backend is deployed on heroku, its response speed will be a little slow, and it takes a little patience to wait for its connection, which is hereby explained.  
   
 - [Full Stack Budgeting App](https://xiaoming-budgeting-2022.netlify.app/)
 
   Create a backend API using Express that performs full CRUD on a single model, transactions. Then, using RESTful routes, connect it to a React app.
   
-- [Snack-A-Log Pair Programming Lab](https://romantic-einstein-9a7ad6.netlify.app)
-
-  This is a two-person partnership programming project. The purpose is mainly to examine the ability of cooperative programming. The project involves the integrated use of front-end, back-end and database. On the basis that the program can run normally, the back-end and front-end are respectively deployed to the heroku and Netlify websites to truly realize a website similar to the real environment. Items within the program can be edited and deleted. You are welcome to inspect and test our projects.  
+  
   
 - [Weather App Project](https://xiaomingyang-git2021.github.io/8-0-weather-app-project/)  
 
