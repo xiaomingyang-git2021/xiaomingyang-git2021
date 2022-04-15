@@ -17,7 +17,7 @@ Coding, Google
 ```
 ## Technologies 
 ```javaScript
-HTML, CSS, JavaScript, React
+HTML, CSS, JavaScript, React, Express, SQL, Postgres
 ```
 ## Projects have been completed
 ### Pursuit Fellowship Project
