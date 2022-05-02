@@ -79,7 +79,6 @@ HTML, CSS, JavaScript, React, Express, SQL, Postgres
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/xiaoming-yang/)
 &nbsp;
 
-- [Linkedin](https://www.linkedin.com/in/xiaoming-yang/)
 
 
  ![codewars](https://www.codewars.com/users/xiaomingyang-git2021/badges/small)
