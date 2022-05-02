@@ -76,6 +76,9 @@ HTML, CSS, JavaScript, React, Express, SQL, Postgres
 
 ## Contact Me
 
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/xiaoming-yang/)
+&nbsp;
+
 - [Linkedin](https://www.linkedin.com/in/xiaoming-yang/)
 
 
