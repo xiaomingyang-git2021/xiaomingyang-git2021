@@ -66,7 +66,7 @@ HTML, CSS, JavaScript, React, Express, SQL, Postgres
 <hr />
   
 
- [![Xiaomingyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaomingyang-git2021)](https://github.com/xiaomingyang-git2021/github-readme-stats)
+ [![Xiaomingyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaomingyang-git2021)](https://github.com/xiaomingyang-git2021/github-readme-stats) <br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaomingyang-git2021&layout=compact)](https://github.com/xiaomingyang-git2021/github-readme-stats)
 
   
