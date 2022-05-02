@@ -61,13 +61,13 @@ HTML, CSS, JavaScript, React, Express, SQL, Postgres
 
   This is a 3-person cooperation project. According to the requirements of the project, there should be an interface with clear YouTube features. When the user enters the searched movie name in the search box, the corresponding result can be given. Click the search result to start playing the video content. In addition, on the navigation bar of the homepage, users can see the information of the members of the creative team of this project.
   
--
--
 
+
+<hr />
   
 
-- [![Xiaomingyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaomingyang-git2021)](https://github.com/xiaomingyang-git2021/github-readme-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaomingyang-git2021&layout=compact)](https://github.com/xiaomingyang-git2021/github-readme-stats)
+ [![Xiaomingyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaomingyang-git2021)](https://github.com/xiaomingyang-git2021/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaomingyang-git2021&layout=compact)](https://github.com/xiaomingyang-git2021/github-readme-stats)
 
   
 
