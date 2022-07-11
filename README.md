@@ -13,7 +13,7 @@ Open to opportunities: Full-time, Apprenticeships, Volunteer Opportunities, Open
 
 ## Interest
 ```javaScript
-Coding, Google
+Coding, Google foo
 ```
 ## Technologies 
 ```javaScript
